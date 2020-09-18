@@ -20,7 +20,7 @@ function myFunction() {
 
 // Explanation: 
 
-/* myFunction is creating a local variable in the "internal" variable as well as the new nested function "nestedFunction". nestedFunction doesnt need to have any variables inside of it because it is able to reach out into the lexical scope within "myFunction" as its parent and use the "internal" variable.*/
+/* myFunction is creating a local variable in the "internal" variable as well as the new nested function "nestedFunction". nestedFunction doesnt need to have any variables inside of it because it is able to reach out into the lexical scope within "myFunction" as its parent and use the "internal" variable. */
 
 
 
